@@ -1,0 +1,20 @@
+INDEX VERSION 1.131+D:\Lagvinovich\Projects\Java\.metadata\.plugins\org.eclipse.jdt.core
+350684761.index
+3488838073.index
+218678989.index
+1635956926.index
+3897974343.index
+2913514783.index
+3195326151.index
+3262574351.index
+326320417.index
+3525070048.index
+2774315868.index
+1689300913.index
+3985194060.index
+415949290.index
+2224648060.index
+3308158393.index
+2014024797.index
+1081816366.index
+2220066549.index

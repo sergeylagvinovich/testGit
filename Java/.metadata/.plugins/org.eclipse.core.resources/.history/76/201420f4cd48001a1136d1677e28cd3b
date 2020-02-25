@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class TestMainClass {
+
+	public static void main(String[] srt)
+	{
+		Scanner scan = new Scanner(System.in);
+		Message("¬ведите длину");
+		Integer a = scan.nextInt();
+		Integer b = scan.nextInt();
+		Message(String.valueOf(a));
+		Message(String.valueOf(b));
+		
+		
+		
+	}
+	
+	public static void Message(String message)
+	{
+		System.out.print(message);
+	}
+	
+}
